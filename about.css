@@ -1,0 +1,137 @@
+
+
+.aboutus .wow.flipInX {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.aboutus {
+    background: url(images/about.jpg);
+    height: 490px;
+}
+
+
+.service .up {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.service h4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.service h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #feb518;
+}
+
+.discover .dishes {
+    padding-right: 0px;
+    margin-right: -14px;
+}
+
+.discover h4.fontroboto {
+    font-size: 26px;
+}
+
+.discover h3.fontdancing {
+    font-size: 30px;
+}
+
+.discover p {
+    font-size: 14px;
+}
+
+.discover button.btn.btn-warning {
+    border-radius: 0px;
+    /* background-color: #e0c99a; */
+    height: 50px;
+    width: 150px;
+}
+
+.discover {
+    height: 590px;
+}
+
+.discover .title.row {
+    text-align: left;
+}
+
+/*discover di dong*/
+@media (max-width: 576px){
+*{}
+
+.discover .col-sm-6.col-xs-12.float-xs-center.float-sm-right {margin-left: 7px;padding-bottom: 10px;}
+
+.discover .col-sm-6.col-xs-12.float-xs-center.float-sm-left {
+    padding-bottom: 20px;
+}
+
+.blog.discover {
+    display: inline-table;
+}
+
+.discover .title.row {
+    text-align: center;
+}
+}
+
+/*het discover di dong*/
+
+
+/*our service*/
+*{}
+
+.service a {
+    color: #feb518;
+}
+
+.service .down {
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.fish h5 {
+    padding-top: 35px;
+}
+
+.fish p {
+    padding-top: 6px;
+}
+
+.burger h5 {
+    padding-top: 10px;
+}
+
+.burger p {
+    padding-top: 5px;
+}
+
+.bread p {
+    padding-top: 5px;
+}
+
+.bread h5 {
+    padding-top: 30px;
+}
+
+.service .down h5 {
+    font-size: 22px;
+}
+
+.down .col-sm-4 {
+    text-align: center;
+}
+
+@media (max-width: 576px){
+*{}
+
+.service .col-sm-4 {
+    padding-bottom: 60px;
+}
+
+}
+
+/*our service*/

@@ -1,0 +1,1144 @@
+.fontroboto{
+	font-family: 'Roboto Slab', serif;
+
+}
+.fontosward{
+	font-family: 'Oswald', sans-serif;
+
+}
+.fontdancing{
+	font-family: 'Dancing Script', cursive;
+}
+
+/*TOP HEADER*/
+
+.datban.openingtop.float-xs-right {
+    border-right: 1px solid;
+    padding-right: 23px;
+}
+
+.mangxh.float.float-xs-left {
+}
+
+.datban {
+    float: left;
+    border-left: 1px solid;
+    padding-left: 24px;
+    margin-left: 17px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 13px;
+    color: #ddd;
+}
+
+.datban.openingtop.float-sm-right {
+    border-right: 1px solid;
+    padding-right: 24px;
+}
+
+.mangxh a {
+    color: white;
+    padding: 13px;
+}
+
+.mangxh a:nth-child(1) {
+    padding-left: 0px;
+}
+
+.topheader {
+    height: 40px;
+    line-height: 40px;
+    BACKGROUND-COLOR: #222222;
+    color: #b8b8b8;
+} 
+
+/*HET TOP HEADER*/
+
+/*XU LY TOP HEADER CHO DI DONG*/
+@media (max-width: 576px){
+		.badichvu{
+		padding-top: 2px;
+	}
+	.chu.fontosward {
+	    padding: 0;
+	    top: 20px;
+	    background: none;
+	}
+
+	.datban {
+	    border: none;
+	    text-align: center;
+	    width: 100%;
+	    margin: 0;
+	    padding: 0;
+	    border-top: 1px dashed #5d5555;
+	}
+
+	.topheader {
+	    height: auto;
+	    padding-bottom: 10px;
+	}
+	.datban.openingtop.float-sm-right {
+    border-right: none;
+    padding-right: 0px;
+	}
+
+}
+
+/*HET HEADER DI DONG*/
+
+
+/*MENU TREN*/
+a.nav-link {
+    color: #777777;
+    font-size: 14px;
+}
+
+.menucon {
+    width: 100%;
+} 
+
+
+.datbanmenu a.nav-link.btn.btn-warning {
+    border-radius: 0px;
+    font-size: 13px;
+    color: black;
+    height: 45px;
+    width: 150px;
+    line-height: 44px;
+    padding: 0px;
+    transform: translateY(-6px);
+}
+
+
+
+div#mtren .navbar-brand img {
+    text-align: center;
+}
+/*HET MENU TRÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â N*/
+
+/*Slide*/
+
+
+.chu {
+    position: absolute;
+    color: white;
+    margin-left: 10%;
+    background: url(images/icon1_03.png) no-repeat;
+    padding-top: 150px;
+    top: 90px;
+}
+
+a.nutslide.btn.btn-warning {
+    width: 50;
+    height: 50px;
+    width: 150px;
+    line-height: 50px;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.chu.fontosward p {
+    font-size: 14px;
+}
+
+.chu p {
+}
+
+.chu h2 {
+    font-size: 50px;
+}
+
+/*het slide*/
+
+
+
+/*MENU TREN CHO DI DONG*/
+@media (max-width: 576px){
+	
+.readmore{
+	padding-bottom: 25px;
+}
+
+/*khoi menu*/
+/*het khoi menu*/
+
+
+/*slide di dong*/
+a.nutslide.btn.btn-warning {
+    width: 115px;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 6px;
+}
+
+.chu p {
+    width: 231px;
+    font-size: 0px;
+    padding: 0px;
+    margin: 0;
+}
+
+.chu h2 {
+    font-size: 18px;
+    margin: 0;
+    padding: 0px;
+}
+/*het slide di dong*/
+	a.navbar-brand.text-xs-center.text-sm-left img {
+	    padding-left: 123px;
+	    height: 90px;
+	}
+
+	a.nav-link {
+	    text-align: center;
+	    border-bottom: 1px solid gray;
+	    margin: 0px 0px 5px 0px;
+	}
+
+	.datbanmenu a.nav-link.btn.btn-warning {
+	    margin-top: 12px;
+	    width: 100%;
+	    border-bottom: 0px;
+	}
+
+	ul.navbar-nav.float-sm-right li:nth-child(1) {
+	    margin-left: 16px;
+	}
+}
+/*HET MENU TREN CHO DI DONG*/
+
+/*3 dich vu*/
+.badichvu {
+	padding-top: 120px;
+}
+.badichvu p {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Roboto Slab', serif;
+}
+
+a.readmore {
+    display: block;
+    text-align: center;
+    width: 100%;
+    color: #333;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+.badichvu h3 {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 20px;
+    font-family:  'Oswald', sans-serif;
+    color: #333;
+}
+
+
+/*het 3 dich vu*/
+/*khoi menu*/
+	*{}
+
+h3.tieudechinh {
+    font-size: 36px;
+    font-family: 'Roboto Slab', serif;
+    font-style: bold;
+    font-weight: bold;
+}
+
+span.tieudephu {
+    font-family: 'Dancing Script', cursive;
+    font-size: 38px;
+}
+.khoimenu {
+    background: url("images/menu.jpg");
+    color: white;
+    margin-top: 45px;
+}
+
+.tieudemenu.text-xs-center {
+    display: table;
+    margin: auto;
+    height: 550px;
+}
+
+
+.tieudemenu .container {
+    display: table-cell;
+    vertical-align: middle;
+}
+/*het khoi menu*/
+
+/*hieu ung thuc ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡n*/
+
+/*.thucdonct .noidungct{
+	height: 400px;
+	position: relative;
+}
+.thucdonct .noidungct .noidung{
+	height: 400px;
+	border: 1px solid gold;
+	line-height: 400px;
+	font-size: 60px;
+	position: absolute;
+	top: 0px;
+}*/
+
+/*hieu ung thuc don*/
+
+/*menu cho di dong*/
+@media (max-width: 576px){
+	*{}
+
+	.tieudemenu.text-xs-center {
+	    height: 350px;
+	}
+
+	span.tieudephu {
+	    font-size: 36px;
+	}
+}
+/*het menu cho di dong*/
+
+/*hiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡u ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ng menu*/
+
+
+.tag {
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    color: #5b5b5b;
+    background-color: #feb518;
+    border-radius: 0px;
+    font-size: 11px;
+}
+
+.anhmon {
+    position: relative;
+}
+
+.motmon {
+    height: 120px;
+}
+.boxanh, .boxtenmon{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+*{}
+
+.nutslide .carousel-control-next {
+    background-color: #373737;
+    height: 45px;
+    width: 45px;
+    top: 26px;
+    right: 72px;
+}
+
+.nutslide .carousel-control-next {
+    color: #4d3e1e;
+}
+
+.nutslide .carousel-control-next:hover {
+}
+
+.tieudect a {
+    color: white;
+    padding: 15px;
+}
+
+.thucdonct {
+    margin-top: -34px;
+}
+
+.noidungct {
+    padding-top: 76px;
+}
+
+.duoi {
+    padding-top: 6px;
+}
+
+.tren .gia {
+    display: inline-block;
+    background-color: white;
+    transform: translateY(8px);
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.tensp .gia {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+b.ten {
+    background-color: white;
+    transform: translateY(8px);
+    display: inline-block;
+    padding-right: 7px;
+}
+
+.tren {
+    border-bottom: 1.3px dotted;
+}
+/*hÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿t hiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡u ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ng menu*/
+.tieudect a:focus{
+	color: orange;
+}
+
+/*slide mon an duoi*/
+
+
+.nutslide .carousel-control-prev {
+    left: auto;
+    right: 121px;
+    background-color: #373737;
+    height: 45px;
+    width: 45px;
+    top: 26px;
+}
+
+.slidemonan h4 {
+    font-size: 24px;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    padding: 28px;
+}
+
+.conthuc {
+    font-family: 'Roboto Slab', serif;
+    color: #aaaaaa;
+    font-size: 14px;
+}
+
+.tensp {
+    padding-top: 12px;
+}
+
+.tensp .ten {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.slidemonan {
+    background: url(images/BG2.jpg);
+    height: auto;
+    /* padding-bottom: 60px; */
+}
+
+img.anhspslide {
+    width: 100%;
+}
+
+.sanpham {
+    width: 20%;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 60px;
+}
+
+/*het slide mon an duoi*/
+/*di dong cho slide 5 mon*/
+@media (max-width: 576px){
+
+
+.slidemonan {
+    /* margin-bottom: 100px; */
+}
+
+.slidemonan h4 {
+    padding-left: 2px;
+    padding-top: 33px;
+}
+
+.nutslide .carousel-control-next {
+    right: 13px;
+}
+
+.nutslide .carousel-control-prev {right: 60px;}
+
+.nutslide.float-xs-right {
+}
+
+.sanpham {
+    width: 45%;
+    margin-left: 13px;
+}
+}
+/*het di dong slide 5 mon*/
+
+
+/*dau bep*/
+*{}
+
+.icongroup i.fa.fa-pinterest {
+    padding-left: 2px;
+    padding-right: 6px;
+}
+
+.icongroup i.fa.fa-twitter {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+a {}
+
+.icongroup i.fa.fa-facebook {
+    padding-right: 5px;
+    padding-left: 3px;
+}
+
+.icongroup a {background: #797960;padding: 9px 8px 8px 12px;color: white;border-radius: 3px;}
+
+.daubep p {
+    font-size: 14px;
+    text-align: left;
+}
+
+.daubep h2 {
+    color: #feb518;
+    font-size: 31px;
+}
+
+.daubep h3 {
+    color: #333;
+    font-size: 30px;
+}
+
+.daubep {
+    background: url(images/bg_about.jpg);
+    height: auto;
+}
+.info{
+	/* top: 200px; */
+	padding-top: 200px;
+}
+/*het dau bep*/
+/*di dong dau bep*/
+@media (max-width: 576px){
+
+
+.icongroup {
+    text-align: center;
+}
+
+.daubep h2, .daubep h3, .daubep p {
+    text-align: center;
+}
+
+.info {
+    /* top: 20px; */
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+}
+/*het di dong dau bep*/
+
+/*dÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âºi ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§u bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿p*/
+
+
+.text {padding-top: 200px;}
+
+.text h3 {
+    color: white;
+    font-size: 36px;
+}
+
+.text h4 {
+    font-size: 38px;
+    color: #feb518;
+}
+
+.restaurant {
+    background: url(images/bg.jpg);
+    height: 550px;
+    text-align: center;
+}
+
+
+@media (max-width: 576px){
+
+.text h3 {
+    font-size: 28px;
+}
+
+.text {
+    padding-top: 170px;
+}
+
+.text h4 {
+    font-size: 26px;
+}
+}
+/*hÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿t dÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âºi ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§u bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿p*/
+
+
+/*reservation*/
+
+.reservation .container h3 {
+    color: #333;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.reservation .container {
+    padding: 100px 30px 42px 30px;
+    text-align: center;
+    border-bottom: 1px  dotted;
+}
+
+.container.c2 {
+    border: none;
+}
+
+.reservation .container p {
+    color: #777777;
+}
+*{}
+
+.bookonline form {
+    padding: 0px 25px 0px 25px;
+}
+
+input#booktable {
+    width: 280px;
+    height: 45px;
+    border-radius: 0px;
+}
+
+.reservation .btn {
+    border-radius: 0px;
+    width: 160px;
+    height: 50px;
+    margin-top: 25px;
+}
+
+.bookonline {
+    padding-bottom: 70px;
+}
+
+.bookonline h3 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 55px;
+}
+
+/*het reservation*/
+
+/*phan hoi nguoi dung*/
+*{}
+
+ol.carousel-indicators.choose {
+    padding-left: 165px;
+    padding-bottom: 45px;
+}
+
+i.fas.fa-quote-left {font-size: 40px;padding-bottom: 40px;}
+
+#phanhoinguoidung li {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 1px;
+    padding: 4px;
+    margin: 6px;
+}
+
+#phanhoinguoidung .carousel-item {
+    text-align: center;
+    padding: 158px 161px 30px 160px;
+    color: white;
+    font-size: 18px;
+}
+
+p.tennguoi {
+    font-size: 29px;
+    color: #feb518;
+    padding-top: 20px;
+}
+
+.phanhoinguoidung .quote {
+    text-align: center;
+}
+
+div#phanhoinguoidung {
+    background-color: #777777;
+    height: 500px;
+}
+
+@media (max-width: 576px){
+
+*{}
+
+.blog {padding-bottom: 10px;}
+
+.reservation {
+}
+
+ol.carousel-indicators.choose {
+    padding-left: 35px;
+}
+
+li {}
+
+#phanhoinguoidung .carousel-inner {
+    /* height: 493px; */
+}
+
+div#phanhoinguoidung {border-top: none;}
+
+#phanhoinguoidung .carousel-item {
+    padding: 44px 1px 4px 0px;
+}
+}
+/*het phan hoi nguio dung*/
+
+
+/*blog*/
+
+*{}
+
+.blog .main {
+    padding-bottom: 100px;
+}
+
+.readmore a {
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 7px;
+}
+
+.readmore p {
+    font-size: 14px;
+    padding-top: 7px;
+}
+
+.content p {
+    font-size: 14px;
+    padding-top: 8px;
+}
+
+.content span {
+    font-size: 14px;
+}
+
+.content h4 {
+    font-size: 18px;
+}
+
+.content {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px dotted;
+}
+
+.blog .title {
+    display: block;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.blog .title h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #feb518;
+}
+
+.blog .title h4 {
+    font-weight: bold;
+    font-size: 24px;
+    color: #333;
+}
+
+
+@media (max-width: 576px){
+
+*{}
+
+.blog .main {
+    padding-bottom: 2px;
+}
+
+.main .col-xs-12.col-sm-4 {
+    padding-bottom: 35px;
+}
+
+.blog .title {
+    padding-top: 50px;
+}
+}
+/*het blog*/
+
+
+/*footer*/
+*{}
+
+.tdft {
+    position: relative;
+}
+
+.tdft:after {
+    content: "";
+    background: yellow;
+    position: absolute;
+    display: block;
+    width: 30px;
+    height: 1px;
+    top: 24px;
+}
+
+.contact i {
+    color: white;
+}
+
+.f1 {
+    color: #6b6b6b;
+}
+
+.footer .duoi {
+    background-color: #111111;
+    color: #6b6b6b;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 11px;
+}
+
+.footer .tren {
+    background-color: #151515;
+    padding-bottom: 70px;
+}
+
+.f4 .hours p {
+    color: #8b8b8b;
+    font-size: 13px;
+}
+
+.f4 .hours {
+    padding-top: 30px;
+}
+
+.f4 span {
+    color: #cccc;
+}
+
+.f4 {
+    padding-top: 30px;
+}
+
+.f3 {
+    padding-top: 30px;
+}
+
+.f2 {
+    padding-top: 30px;
+}
+
+.f1 .row {
+    padding-bottom: 13px;
+}
+
+.f3 .box {
+    padding-top: 30px;
+}
+
+.f2 .links {
+    padding-top: 30px;
+}
+
+.f3 .date {
+    color: #424242;
+}
+
+.f3 .name {
+    color: #cccccc;
+    /* font-size: 14px; */
+}
+
+.f3 span {
+    color: #</span>;
+    color: #cccccc;
+}
+
+.f2 p.fontroboto {color: #6b6b6b;}
+
+.f2 span {
+    color: #c4c4c4;
+}
+
+.f3 .col-sm-8 {
+    padding-top: 6px;
+}
+
+.f3 p.date {
+    font-size: 13px;
+}
+
+.f3 p.name.fontroboto {
+    font-size: 14px;
+}
+
+.f3 img.img-fluid {
+    border: 4px yellow;
+    border-radius: 58px;
+}
+
+.f3 .col-sm-4 {
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 14px;
+}
+
+.col-sm-2.f3 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+@media (max-width: 576px){
+
+*{}
+	.f3 .col-sm-8.col-xs-8 {
+	    padding-top: 16px;
+	}
+
+	.f3 .tdft {
+	    padding-left: 18px;
+	}
+
+	.f3 .tdft:after {
+	    left: 19px;
+	}
+
+	.f3 .box {
+	    padding-left: 20px;
+	}
+
+}
+
+/*het footer*/
+
+
+/*page thuc don*/
+*{}
+
+a.page-link.prenext {
+    width: 61px;
+}
+
+.shrimp {
+    padding-top: 100px;
+}
+
+.ourmenu1 h4 {
+    font-size: 28px;
+    color: white;
+}
+
+.ourmenu1 h3 {
+    font-size: 32px;
+    color: #feb518;
+}
+
+.ourmenu1 {
+    text-align: center;
+    background: url(images/thucdon3_new.png);
+    height: 550px;
+}
+
+.our2 {
+    background: url(images/thucdon6.jpg);
+}
+
+.Listmenu .burger h4 {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.Listmenu .burger h3 {
+    font-size: 32px;
+    color: #feb518;
+}
+
+.Listmenu .burger {
+    padding-top: 90px;
+}
+
+.Listmenu {
+    text-align: center;
+}
+
+.col-sm-12.burger.wow.rotateOut {}
+
+.ourmenu .text {
+    text-align: center;
+}
+
+.ourmenu {
+    background: url(images/thucdon2_new.png);
+    height: 500px;
+}
+
+
+
+
+/*het page thuc don*/
+
+
+
+/*bat dau page blog*/
+
+
+
+
+
+.phantrang li a {
+    border-radius: 22px;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+    line-height: 21px;
+    font-size: 15px;
+}
+
+a.page-link:hover {
+    color: #ffdc30;
+}
+
+ul.pagination, ul.pagination li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.phantrang ul li a:hover {
+    color: #0e0e0e;
+    background-color: #e6f94b;
+}
+
+nav.phantrang {
+    text-align: center;
+}
+
+.div.categories {
+    border-bottom: 1px solid #efe9e9;
+    padding-bottom: 15px;
+}
+
+.noidungtin li {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.noidungtin h4 {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.noidungtin .form-group i.fas.fa-search {
+    position: absolute;
+    top: 13px;
+    right: 26px;
+    cursor: pointer;
+}
+
+.noidungtin .form-group input {
+    position: relative;
+    height: 40px;
+    width: 250px;
+    border-radius: 0px;
+}
+
+.tieudenews {
+    padding-bottom: 40px;
+}
+
+/*het page blog*/
+
+
+/*contact*/
+*{}
+
+.ourbranch h4.fontroboto {
+    font-size: 24px;
+    padding-bottom: 25px;
+}
+
+.ourbranch h3.fontdancing {
+    font-size: 32px;
+}
+
+.branch p {
+    font-size: 13px;
+}
+
+.branch .col-sm-2.col-xs-2 {
+    margin-right: -25px;
+}
+
+.branch {
+    padding-top: 20px;
+}
+
+.branch i {
+    padding: 8px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: #fbcd5e;
+}
+.visit{
+	background: url(images/visit.jpg);
+    height: 550px;
+    text-align: center;
+}
+.tinhan .col-sm-12.burger.wow.rotateOut {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+}
+
+.tinhan h3.fontdancing {
+    color: #feb518;
+}
+
+button.btn.btn-block.btn-primary {
+    width: 95%;
+    background-color: black;
+    font-weight: bold;
+    height: 42px;
+    font-size: 13px;
+}
+textarea {
+    width: 95%;
+    height: 100px;
+    padding: 10px;
+}
+@media (max-width: 576px){
+
+*{}
+
+.Message {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+	.send {
+	    padding-top: 10px;
+	    padding-bottom: 15px;
+	}
+
+	.textarea {
+	    padding-top: 19px;
+	    padding-left: 2px;
+	}
+
+}
+/*het contact*/
